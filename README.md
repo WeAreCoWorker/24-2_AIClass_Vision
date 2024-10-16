@@ -47,3 +47,6 @@ Brandenburg-Gate | QR
 ![Scare](result/QR/Brandenburg.png) | ![QR-Scare](result/QR/QR_Brandenburg.png)
 Park | QR
 ![Scare](result/QR/Park.png) | ![QR-Scare](result/QR/QR_Park.png)
+
+## Acknowledgement
+This repository is built on top of [WildGaussian](https://github.com/jkulhanek/wild-gaussians) and [SDXL](https://stablediffusionxl.com/) repositories. We would like to thank for their incredible works ❤.
