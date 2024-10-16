@@ -3,7 +3,7 @@
 ## **Summary**
 Novel view synthesis from unconstrained images with Deformable 3D Gaussian Splatting
 
-## **Result Examples**
+## **Style Result Examples**
 Reference image |  Trevi-fountain  |  Brandenburg-gate  |  Scare-Coeur
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 Blank | ![Trevi-fountain](result/example/Trevi-fountain.gif) | ![Brandenburg-gate](result/example/Brandenburg-gate.gif) | ![Scare-Coeur](result/example/Scare-Coeur.gif)
@@ -19,3 +19,14 @@ W/O Diffusion | 30.13 | 0.944 | 0.112
 W/O VGG | 29.33 | blank | blank
 W/O LischipzMLP | 29.76 | 0.927 | 0.145
 Full | 30.73 | 0.942 | 0.116
+
+## **3D Result Examples**
+Scare-Coeur | QR
+:-------------------------:|:-------------------------:
+![Scare](result/QR/Scare.png) | ![QR-Scare](result/QR/QR_Scare.png)
+Trevi-Fountain | QR
+![Scare](result/QR/Trevi.png) | ![QR-Scare](result/QR/QR_Trevi.png)
+Brandenburg-Gate | QR
+![Scare](result/QR/Brandenburg.png) | ![QR-Scare](result/QR/QR_Brandenburg.png)
+Park | QR
+![Scare](result/QR/Park.png) | ![QR-Scare](result/QR/QR_Park.png)
